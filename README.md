@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=shark)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
 
 <!--
 **illus1ons/illus1ons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
