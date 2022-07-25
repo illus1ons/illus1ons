@@ -23,4 +23,4 @@
   <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=Amazon%20ECS&logoColor=white">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illus1ons&langs_count=10&layout=compact&theme=dark)](https://github.com/illus1ons/illus1ons)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illus1ons&layout=compact)](https://github.com/illus1ons/illus1ons)
